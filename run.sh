@@ -1,0 +1,2 @@
+go build
+./arc.exe
